@@ -1,12 +1,13 @@
-package multilineDisplay
+package atrico.kotlib.multilineDisplay
 
+import atrico.kotlib.testing.TestBase
 import com.natpryce.hamkrest.assertion.assertThat
 import com.natpryce.hamkrest.equalTo
 import org.junit.jupiter.api.Test
 import java.io.OutputStream
 import java.io.PrintStream
 
-class TestDisplayMultiline {
+class TestDisplayMultiline: TestBase() {
     @Test
     fun testNoParameters() {
         // Arrange

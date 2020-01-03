@@ -1,3 +1,5 @@
+package atrico.kotlib
+
 /**
  * Builder type for immutable object
  */

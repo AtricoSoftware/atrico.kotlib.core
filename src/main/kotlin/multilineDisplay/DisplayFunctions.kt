@@ -1,4 +1,4 @@
-package multilineDisplay
+package atrico.kotlib.multilineDisplay
 
 import java.io.PrintStream
 

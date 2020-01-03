@@ -1,3 +1,5 @@
+package atrico.kotlib
+
 import multilineDisplay.MultilineDisplayable
 import multilineDisplay.MultilineDisplayableParameterised
 import multilineDisplay.displayMultiline

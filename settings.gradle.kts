@@ -1,2 +1,2 @@
-rootProject.name = "atrico.kotlib.core"
+rootProject.name = "core"
 

@@ -1,4 +1,4 @@
-package multilineDisplay
+package atrico.kotlib.multilineDisplay
 
 /**
  * This object can be displayed as a "2D string"
