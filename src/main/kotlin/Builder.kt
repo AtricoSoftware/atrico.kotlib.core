@@ -5,5 +5,5 @@ interface Builder<T> {
     /**
      * Build the object
      */
-    fun build():T
+    fun build(): T
 }
